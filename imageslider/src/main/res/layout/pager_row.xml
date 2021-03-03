@@ -24,7 +24,7 @@
             android:id="@+id/text_view"
             android:textColor="@android:color/white"
             android:textStyle="bold"
-            android:textSize="18sp"
+            android:textSize="10sp"
             android:layout_width="wrap_content"
             android:layout_height="match_parent"/>
         </LinearLayout>
